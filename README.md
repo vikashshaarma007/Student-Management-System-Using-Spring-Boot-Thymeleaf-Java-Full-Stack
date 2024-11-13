@@ -5,12 +5,14 @@
 
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
   <br>
-  </p>
+  
 * A Spring MVC web application for Student Management System with the following CRUD operations:
+  <br>
 •	Get all the Student
 •	Add a new Student
 •	Update a Student	
 •	Delete a Student
+
 
 
 <!-- TABLE OF CONTENTS -->
