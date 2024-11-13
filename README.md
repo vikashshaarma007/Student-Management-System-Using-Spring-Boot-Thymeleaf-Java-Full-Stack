@@ -9,8 +9,11 @@
 * A Spring MVC web application for Student Management System with the following CRUD operations:
   <br>
 •	Get all the Student
+<br>
 •	Add a new Student
-•	Update a Student	
+<br>
+•	Update a Student
+<br>
 •	Delete a Student
 
 
