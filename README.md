@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center"><i>Looking forward to working with you QuadB Tech!</i> 👨🏽‍💻 
+<p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
 A Spring MVC web application for Student Management System with the following CRUD operations:
 •	Get all the Student
 •	Add a new Student
