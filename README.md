@@ -46,6 +46,8 @@ A Spring MVC web application for Student Management System with the following CR
  * Maven
  * PostgreSQL Database
  * Spring-Boot-Devtools
+   
+<!-- GETTING STARTED -->
 
 ## Demo:
  * All Students UI
