@@ -34,7 +34,7 @@ A Spring MVC web application for Student Management System with the following CR
 </details>
 
  Built With : 
-3. Technology Stack:
+## Technology Stack:
  * Java 17
  * Spring Boot
  * HTML
@@ -74,7 +74,7 @@ A Spring MVC web application for Student Management System with the following CR
 * Database Table
    ![image](https://github.com/user-attachments/assets/59b42bd4-341e-4978-8da1-7ad70c41d214)
 
- * dependencies
+* dependencies
   ```sh
   
   dependencies : 
@@ -100,11 +100,11 @@ A Spring MVC web application for Student Management System with the following CR
   https://start.spring.io/
   ```
 ### Installation 
-_Follow these simple steps to get the server up and running 👾🧮🚀✅._   
-1. Create Database -> SMS
-2. Open project in preferred IDE (I used SpringToolsSuite4)
-3. Run the project as a Spring Boot app.
-4. Hibernate will automatically create a table -> student
-5. Add sample data to the table using Postgresql pgadmin tools
-6. Ren web browser at localhost: 8080/
-7. Add, Update, Delete records and Pagination, Sorting according alphabetically from the web app
+  _Follow these simple steps to get the server up and running 👾🧮🚀✅._   
+  1. Create Database -> SMS
+  2. Open project in preferred IDE (I used SpringToolsSuite4)
+  3. Run the project as a Spring Boot app.
+  4. Hibernate will automatically create a table -> student
+  5. Add sample data to the table using Postgresql pgadmin tools
+  6. Ren web browser at localhost: 8080/
+  7. Add, Update, Delete records and Pagination, Sorting according alphabetically from the web app
