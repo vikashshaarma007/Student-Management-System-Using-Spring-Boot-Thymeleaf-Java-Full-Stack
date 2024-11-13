@@ -71,7 +71,7 @@ A Spring MVC web application for Student Management System with the following CR
   2.   With Sorting
      ![page6](https://github.com/user-attachments/assets/53a8bddc-224f-4397-a61d-b4bb96d929e6)
 
-*. Database Table
+* Database Table
    ![image](https://github.com/user-attachments/assets/59b42bd4-341e-4978-8da1-7ad70c41d214)
 
  * dependencies
@@ -89,7 +89,7 @@ A Spring MVC web application for Student Management System with the following CR
   ```sh
   intellij/eclipse
   ```
-  * to build the project for production
+* to build the project for production
   ```sh
   Go to start.spring.io.
   Choose Maven, set Group and Artifact names.
@@ -100,7 +100,6 @@ A Spring MVC web application for Student Management System with the following CR
   https://start.spring.io/
   ```
 ### Installation 
-9. How To Use:
 _Follow these simple steps to get the server up and running 👾🧮🚀✅._   
 1. Create Database -> SMS
 2. Open project in preferred IDE (I used SpringToolsSuite4)
