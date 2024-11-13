@@ -4,12 +4,14 @@
 <br>
 
 <p align="center"><i>CRUD Operations</i> 👨🏽‍💻 
+  <br>
+  </p>
 A Spring MVC web application for Student Management System with the following CRUD operations:
 •	Get all the Student
 •	Add a new Student
 •	Update a Student	
 •	Delete a Student
-</p>
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -26,6 +28,7 @@ A Spring MVC web application for Student Management System with the following CR
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#Ddemo">Demo</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -49,7 +52,7 @@ A Spring MVC web application for Student Management System with the following CR
    
 <!-- GETTING STARTED -->
 
-## Demo:
+### Demo:
  * All Students UI
    ![image](https://github.com/user-attachments/assets/51de6359-2f81-4238-be30-877637705d2d)
 
