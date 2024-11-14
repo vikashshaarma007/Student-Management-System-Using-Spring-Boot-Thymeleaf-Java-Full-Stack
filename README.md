@@ -1,5 +1,5 @@
 <h1 align="center">Student Management System 🧮🚀</h1>
-<a href="https://www.flaticon.com/free-icons/code" title="code icons">Code icons created by Alfredo Creates - Flaticon</a>
+
 <p align="center"><i>A Spring MVC web application for Student Management System with the following CRUD operations in single platform</i></p>
 
 <br>
