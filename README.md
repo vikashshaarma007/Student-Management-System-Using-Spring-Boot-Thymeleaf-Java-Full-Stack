@@ -112,6 +112,7 @@
   https://start.spring.io/
   ```
 ### Installation 
+```sh
     _Follow these simple steps to get the server up and running 👾🧮🚀✅._   
    1. Create Database -> SMS
    2. Open project in preferred IDE (I used SpringToolsSuite4)
@@ -120,3 +121,4 @@
    5. Add sample data to the table using Postgresql pgadmin tools
    6. Ren web browser at localhost: 8080/
    7. Add, Update, Delete records and Pagination, Sorting according alphabetically from the web app
+```
